@@ -3,10 +3,13 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-    //Main.dayTest();
+    Main.dayTest();
+    MultiUserInput inputObject = new MultiUserInput();
+    inputObject.printReverse();
          SwitchCase myObject = new SwitchCase();
          myObject.problem1("");
          myObject.problem2("");
+
     }
     public static void dayTest(){
         int week = 4;

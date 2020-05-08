@@ -3,8 +3,21 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-        Calculator myCalculator = new Calculator();
+        ArrayCalculator arrayCalculator = new ArrayCalculator();
+        arrayCalculator.arrayCalc();
+      /*  Calculator myCalculator = new Calculator();
         myCalculator.calc();
+        double result;
+        //   Calculator performOperation1 = new Calculator();
+        result = myCalculator.performOperation('+', 2.0, 32.0);
+        System.out.println(result);
+        result = myCalculator.performOperation('-', 1.0, 32.0);
+        System.out.println(result);
+        result = myCalculator.performOperation('*', 3.0, 32.0);
+        System.out.println(result);
+        result = myCalculator.performOperation('/', 4.0, 32.0);
+        System.out.println(result);
+**/
 
         // Main.dayTest();
   /*  MultiUserInput inputObject = new MultiUserInput();

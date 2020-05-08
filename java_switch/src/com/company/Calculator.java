@@ -27,36 +27,42 @@ class Calculator{
         operator = scanner.next().charAt(0);
         number2 = scanner.nextDouble();
 
+        performOperation(operator, number1, number2);
+    }
+
+    public double performOperation(char operator, Double number1, Double number2) {
+        Double result = null;
         switch (operator) {
 
 
             case '+':
                 result = number1 + number2;
-                System.out.print(number1 + "+" + number2 + " = " + result);
+             //   System.out.print(number1 + "+" + number2 + " = " + result);
                 break;
 
-            // perform substraction betw
+
             case '-':
                 result = number1 - number2;
-                System.out.print(number1 + "-" + number2 + " = " + result);
+              //  System.out.print(number1 + "-" + number2 + " = " + result);
                 break;
 
             // performs multiplication between numbers
             case '*':
                 result = number1 * number2;
-                System.out.print(number1 + "*" + number2 + " = " + result);
+             //   System.out.print(number1 + "*" + number2 + " = " + result);
                 break;
 
 
             case '/':
                 result = number1 / number2;
-                System.out.print(number1 + "/" + number2 + " = " + result);
+              //  System.out.print(number1 + "/" + number2 + " = " + result);
                 break;
 
             default:
                 System.out.println("Invalid operator!");
                 break;
         }
+        return result;
     }
 }
 

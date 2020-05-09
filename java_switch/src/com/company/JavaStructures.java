@@ -1,13 +1,15 @@
 package com.company;
 
 class JavaStructure {
-    public  void javastructure() {
-        int i, j;
-        for (i = 0; i <= 4; i++) {
-            for (j = 0; j <= 5; j++) {
+    public static void javastructure() {
+        int rows = 5;
 
-                System.out.println("x");
+        for (int i=1;i<=rows;i++) {
+            for (int j=1;j<=i;j++) {
+                System.out.print("x ");
             }
+            System.out.println();
         }
+
     }
 }

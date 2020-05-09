@@ -3,8 +3,12 @@ package com.company;
 //import com.company.*;
 class Main {
    public static void main(String[] args) {
-       ArrayCalculator arrayCalculator = new ArrayCalculator();
-        arrayCalculator.arrayCalc();
+       JavaStructure javaStructure = new JavaStructure();
+       JavaStructure.javastructure();
+       Forloop forloop = new Forloop();
+       forloop.forloop();
+   //    ArrayCalculator arrayCalculator = new ArrayCalculator();
+     //   arrayCalculator.arrayCalc();
       /*  Calculator myCalculator = new Calculator();
         myCalculator.calc();
         double result;

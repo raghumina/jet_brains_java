@@ -2,8 +2,8 @@ package com.company;
 
 //import com.company.*;
 class Main {
-    public static void main(String[] args) {
-        ArrayCalculator arrayCalculator = new ArrayCalculator();
+   public static void main(String[] args) {
+       ArrayCalculator arrayCalculator = new ArrayCalculator();
         arrayCalculator.arrayCalc();
       /*  Calculator myCalculator = new Calculator();
         myCalculator.calc();
@@ -29,7 +29,7 @@ class Main {
    **/
 
 
-    }
+   }
 
     public static void dayTest() {
         int week = 4;

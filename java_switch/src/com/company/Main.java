@@ -3,6 +3,8 @@ package com.company;
 //import com.company.*;
 class Main {
    public static void main(String[] args) {
+       JavaInput javaInput = new JavaInput();
+       JavaInput.javaInput();
        TypeCasting typecasting = new TypeCasting();
        TypeCasting.typecasting();
        JavaStructure javaStructure = new JavaStructure();

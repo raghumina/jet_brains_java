@@ -3,6 +3,8 @@ package com.company;
 //import com.company.*;
 class Main {
    public static void main(String[] args) {
+       TypeCasting typecasting = new TypeCasting();
+       TypeCasting.typecasting();
        JavaStructure javaStructure = new JavaStructure();
        JavaStructure.javastructure();
        Forloop forloop = new Forloop();

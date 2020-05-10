@@ -11,4 +11,6 @@ class Loops2{
 }
 /* one more way for infinite loop is
 for(i = 0; i <= 10; i--)
+AND ONE MORE WAY IS
+for(; true ;)
  */

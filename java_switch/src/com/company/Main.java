@@ -3,10 +3,12 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-        EvenOdd evenOdd = new EvenOdd();
-        EvenOdd.evenOdd();
-        JavaInput javaInput = new JavaInput();
-        JavaInput.javaInput();
+        IfElseOutput ifElseOutput = new IfElseOutput();
+        IfElseOutput.ifElseOutput();
+       // EvenOdd evenOdd = new EvenOdd();
+      //  EvenOdd.evenOdd();
+      //  JavaInput javaInput = new JavaInput();
+      //  JavaInput.javaInput();
         //   TypeCasting typecasting = new TypeCasting();
         // TypeCasting.typecasting();
         //JavaStructure javaStructure = new JavaStructure();

@@ -3,8 +3,10 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-        WhileLoop whileLoop = new WhileLoop();
-        WhileLoop.whileLoop();
+        DoWhileLoop doWhileLoop = new DoWhileLoop();
+        DoWhileLoop.doWhileLoop();
+   //     WhileLoop whileLoop = new WhileLoop();
+   //     WhileLoop.whileLoop();
 
         //    Loops2 loops2 = new Loops2();
         //  Loops2.loops2();

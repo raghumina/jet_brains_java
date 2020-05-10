@@ -3,8 +3,11 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-        IfElseOutput ifElseOutput = new IfElseOutput();
-        IfElseOutput.ifElseOutput();
+        Loops2 loops2 = new Loops2();
+        Loops2.loops2();
+
+      //  IfElseOutput ifElseOutput = new IfElseOutput();
+       // IfElseOutput.ifElseOutput();
        // EvenOdd evenOdd = new EvenOdd();
       //  EvenOdd.evenOdd();
       //  JavaInput javaInput = new JavaInput();

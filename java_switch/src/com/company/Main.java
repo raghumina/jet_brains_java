@@ -3,15 +3,18 @@ package com.company;
 //import com.company.*;
 class Main {
     public static void main(String[] args) {
-        Loops2 loops2 = new Loops2();
-        Loops2.loops2();
+        WhileLoop whileLoop = new WhileLoop();
+        WhileLoop.whileLoop();
 
-      //  IfElseOutput ifElseOutput = new IfElseOutput();
-       // IfElseOutput.ifElseOutput();
-       // EvenOdd evenOdd = new EvenOdd();
-      //  EvenOdd.evenOdd();
-      //  JavaInput javaInput = new JavaInput();
-      //  JavaInput.javaInput();
+        //    Loops2 loops2 = new Loops2();
+        //  Loops2.loops2();
+
+        //  IfElseOutput ifElseOutput = new IfElseOutput();
+        // IfElseOutput.ifElseOutput();
+        // EvenOdd evenOdd = new EvenOdd();
+        //  EvenOdd.evenOdd();
+        //  JavaInput javaInput = new JavaInput();
+        //  JavaInput.javaInput();
         //   TypeCasting typecasting = new TypeCasting();
         // TypeCasting.typecasting();
         //JavaStructure javaStructure = new JavaStructure();

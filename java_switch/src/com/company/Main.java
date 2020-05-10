@@ -2,21 +2,23 @@ package com.company;
 
 //import com.company.*;
 class Main {
-   public static void main(String[] args) {
-       JavaInput javaInput = new JavaInput();
-       JavaInput.javaInput();
-       TypeCasting typecasting = new TypeCasting();
-       TypeCasting.typecasting();
-       JavaStructure javaStructure = new JavaStructure();
-       JavaStructure.javastructure();
-       Forloop forloop = new Forloop();
-       forloop.forloop();
-   //    ArrayCalculator arrayCalculator = new ArrayCalculator();
-     //   arrayCalculator.arrayCalc();
-      /*  Calculator myCalculator = new Calculator();
+    public static void main(String[] args) {
+        EvenOdd evenOdd = new EvenOdd();
+        EvenOdd.evenOdd();
+        JavaInput javaInput = new JavaInput();
+        JavaInput.javaInput();
+        //   TypeCasting typecasting = new TypeCasting();
+        // TypeCasting.typecasting();
+        //JavaStructure javaStructure = new JavaStructure();
+        //JavaStructure.javastructure();
+        //Forloop forloop = new Forloop();
+        //forloop.forloop();
+        //   ArrayCalculator arrayCalculator = new ArrayCalculator();
+        //   arrayCalculator.arrayCalc();
+       /* Calculator myCalculator = new Calculator();
         myCalculator.calc();
         double result;
-        //   Calculator performOperation1 = new Calculator();
+           Calculator performOperation1 = new Calculator();
         result = myCalculator.performOperation('+', 2.0, 32.0);
         System.out.println(result);
         result = myCalculator.performOperation('-', 1.0, 32.0);
@@ -25,16 +27,15 @@ class Main {
         System.out.println(result);
         result = myCalculator.performOperation('/', 4.0, 32.0);
         System.out.println(result);
-**/
 
-        // Main.dayTest();
-  /*  MultiUserInput inputObject = new MultiUserInput();
+
+         Main.dayTest();
+    MultiUserInput inputObject = new MultiUserInput();
     inputObject.printReverse();
          SwitchCase myObject = new SwitchCase();
          myObject.problem1("");
          myObject.problem2("");
 
-   **/
 
 
    }
@@ -72,6 +73,6 @@ class Main {
                 day = "Invalid day";
                 break;
         }
-        System.out.println("The day is " + day);
+        System.out.println("The day is " + day);**/
     }
 }

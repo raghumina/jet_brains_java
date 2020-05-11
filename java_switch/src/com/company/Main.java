@@ -1,10 +1,11 @@
 package com.company;
 
-//import com.company.*;
 class Main {
     public static void main(String[] args) {
-        BreakContinue breakContinue = new BreakContinue();
-        BreakContinue.breakContinue();
+        BreakContinue2 breakContinue2 = new BreakContinue2();
+        BreakContinue2.breakContinue2();
+     //   BreakContinue breakContinue = new BreakContinue();
+     //   BreakContinue.breakContinue();
       //  DoWhileLoop doWhileLoop = new DoWhileLoop();
      //   DoWhileLoop.doWhileLoop();
    //     WhileLoop whileLoop = new WhileLoop();

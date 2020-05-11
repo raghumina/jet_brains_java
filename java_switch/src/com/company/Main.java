@@ -2,14 +2,16 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        BreakContinue2 breakContinue2 = new BreakContinue2();
-        BreakContinue2.breakContinue2();
-     //   BreakContinue breakContinue = new BreakContinue();
-     //   BreakContinue.breakContinue();
-      //  DoWhileLoop doWhileLoop = new DoWhileLoop();
-     //   DoWhileLoop.doWhileLoop();
-   //     WhileLoop whileLoop = new WhileLoop();
-   //     WhileLoop.whileLoop();
+        Method1 method1 = new Method1();
+        Method1.method1();
+        // BreakContinue2 breakContinue2 = new BreakContinue2();
+        //   BreakContinue2.breakContinue2();
+        //   BreakContinue breakContinue = new BreakContinue();
+        //   BreakContinue.breakContinue();
+        //  DoWhileLoop doWhileLoop = new DoWhileLoop();
+        //   DoWhileLoop.doWhileLoop();
+        //     WhileLoop whileLoop = new WhileLoop();
+        //     WhileLoop.whileLoop();
 
         //    Loops2 loops2 = new Loops2();
         //  Loops2.loops2();

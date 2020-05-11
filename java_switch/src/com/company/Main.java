@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Method3 method3 = new Method3();
-        Method3.method3();
+        Method4 method4 = new Method4();
+        Method4.method4();
+      //  Method3 method3 = new Method3();
+      //  Method3.method3();
         //Method2 method2 = new Method2();
         //Method2.method2();
         //Method1 method1 = new Method1();

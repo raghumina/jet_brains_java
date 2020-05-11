@@ -2,10 +2,12 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Method2 method2 = new Method2();
-        Method2.method2();
-        Method1 method1 = new Method1();
-        Method1.method1();
+        Method3 method3 = new Method3();
+        Method3.method3();
+        //Method2 method2 = new Method2();
+        //Method2.method2();
+        //Method1 method1 = new Method1();
+        //Method1.method1();
         // BreakContinue2 breakContinue2 = new BreakContinue2();
         //   BreakContinue2.breakContinue2();
         //   BreakContinue breakContinue = new BreakContinue();

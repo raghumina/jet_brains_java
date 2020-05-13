@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Prime prime = new Prime();
-        Prime.prime();
+        Constructor2 constructor2 = new Constructor2();
+        Constructor2.constructor2();
+      //  Prime prime = new Prime();
+     //   Prime.prime();
       //  Constructor1 constructor1 = new Constructor1();
        // Constructor1.constructor1();
         // Method4 method4 = new Method4();

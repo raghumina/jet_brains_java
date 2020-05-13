@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Constructor2 constructor2 = new Constructor2();
-        Constructor2.constructor2();
+        ForEachLoop forEachLoop = new  ForEachLoop();
+        ForEachLoop.forEachLoop();
+       // Constructor2 constructor2 = new Constructor2();
+     //   Constructor2.constructor2();
       //  Prime prime = new Prime();
      //   Prime.prime();
       //  Constructor1 constructor1 = new Constructor1();

@@ -2,10 +2,14 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        ForEachLoop2 forEachLoop2 = new ForEachLoop2();
-        ForEachLoop2.forEachLoop2();
-        ForEachLoop forEachLoop = new  ForEachLoop();
-        ForEachLoop.forEachLoop();
+        Strings2 strings2 = new Strings2();
+        Strings2.strings2();
+        Strings strings= new Strings();
+        Strings.strings();
+     //   ForEachLoop2 forEachLoop2 = new ForEachLoop2();
+    //    ForEachLoop2.forEachLoop2();
+    //    ForEachLoop forEachLoop = new  ForEachLoop();
+    //    ForEachLoop.forEachLoop();
        // Constructor2 constructor2 = new Constructor2();
      //   Constructor2.constructor2();
       //  Prime prime = new Prime();

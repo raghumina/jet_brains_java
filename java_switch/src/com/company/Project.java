@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 //Write a program that calculates the amount of ingredients needed to make a certain amount of coffee.
+// This is a part of coffee machine project
 // jet brains 1st project (part 1 )
 class Project {
     public static void project() {

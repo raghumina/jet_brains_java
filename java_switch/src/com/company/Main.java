@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Problem3 problem3 = new Problem3();
-        Problem3.problem3();
+        Problem4 problem4 = new Problem4();
+        Problem4.problem4();
+     //   Problem3 problem3 = new Problem3();
+    //    Problem3.problem3();
   //      Problem2 problem2 = new Problem2();
   //      Problem2.problem2();
    //     Problem problem = new Problem();

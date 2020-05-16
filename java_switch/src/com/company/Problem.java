@@ -1,5 +1,5 @@
 package com.company;
-
+// Relation Operator Problem 1
 //Write a program that reads an integer value and checks if it is less than 10 and greater than 0.
 // The result is a boolean value (true or false).
 

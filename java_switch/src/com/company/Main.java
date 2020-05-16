@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        Problem problem = new Problem();
-        Problem.problem();
+        Problem2 problem2 = new Problem2();
+        Problem2.problem2();
+   //     Problem problem = new Problem();
+   //     Problem.problem();
      //   RelationalOperator relationalOperator = new RelationalOperator();
      //   RelationalOperator.relationalOperator();
        // Project project = new Project();

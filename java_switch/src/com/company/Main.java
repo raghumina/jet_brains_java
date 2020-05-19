@@ -2,8 +2,10 @@ package com.company;
 
 class Main {
     public static void main(String[] args) {
-        SwitchPractising switchPractising = new SwitchPractising();
-        SwitchPractising.switchPractising();
+        Switch2 switch2 = new Switch2();
+        Switch2.switch2();
+       // SwitchPractising switchPractising = new SwitchPractising();
+      //  SwitchPractising.switchPractising();
         // Problem7 problem7 = new Problem7();
         //Problem7.problem7();
         //Problem6 problem6 = new Problem6();

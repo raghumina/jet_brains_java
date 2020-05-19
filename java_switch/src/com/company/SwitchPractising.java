@@ -1,6 +1,6 @@
 package com.company;
 // This is a Switch Practise program
-// using multiple if else if cases 
+// using multiple if else if cases
 import java.util.Scanner;
 
 class SwitchPractising {
@@ -18,5 +18,6 @@ class SwitchPractising {
         } else if (number == 4) {
             System.out.println("Close the program ");
         }
+
     }
 }

@@ -6,6 +6,8 @@ package com.company;
 //one
 //Sample input 1:
 //1
+// we can also solve this problem by if else conditions
+// solution by if else in Switch Problem 2
 
 import java.util.Scanner;
 
